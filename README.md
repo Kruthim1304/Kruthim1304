@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently exploring the field of **Artificial Intelligence.**
 
-- 💻 I’m presently working on **Machine Learning and Deep Learning ** concepts.
+- 💻 I’m presently working on **Machine Learning and Deep Learning** concepts.
 
 - 📫 How to reach me **Kruthimj@gmail.com**
 
