@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Kruthimj@gmail.com**
 
-  ![](https://komarev.com/ghpvc/?username=Kruthim1304&color=red)
+  ![](https://komarev.com/ghpvc/?username=Kruthim1304&color=pink)
   
    **Skills:**
   ---
