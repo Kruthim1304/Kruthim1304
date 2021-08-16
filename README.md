@@ -14,13 +14,10 @@
  * Frontend Technologies: HTML, CSS, Javascript
  * Programming Languages: Python, C, C++
   ---
-  
+![](https://komarev.com/ghpvc/?username=Kruthim1304&color=blueviolet)
+
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kruthim1304&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=Kruthim1304&color=blueviolet)
 
 <br>
 
