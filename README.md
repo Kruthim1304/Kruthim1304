@@ -16,8 +16,6 @@
 ![](https://komarev.com/ghpvc/?username=Kruthim1304&color=blueviolet)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kruthim1304&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthim1304&theme=jolly&show_icons=true&locale=en&layout=compact" alt="kruthim1304" /></p>
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kruthim1304&theme=jolly) <img src="https://user-images.githubusercontent.com/76477365/120953404-84003900-c76a-11eb-99ff-f9887532944e.png" style="margin-left:20px;" alt="alt text" width="200px" height="200px" >
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kruthim1304&theme=jolly&show_icons=true&locale=en" alt="kruthim1304" /></p>
