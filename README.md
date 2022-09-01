@@ -7,10 +7,12 @@
 
 - 📫 How to reach me **Kruthimj@gmail.com**
 
+- 📱 Links to my socials: **https://linktr.ee/kruthim**
+
    Skills:
   ---
  
- * Frontend Technologies: HTML, CSS, Javascript
+ * Frontend Technologies: HTML, CSS, Javascript, React.Js
  * Programming Languages: Python, C, C++
   ---
 ![](https://komarev.com/ghpvc/?username=kruthim1304&color=blueviolet)
